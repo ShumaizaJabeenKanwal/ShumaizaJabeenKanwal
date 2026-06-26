@@ -10,7 +10,6 @@ Passionate AI Automation Engineer with hands-on experience building AI-powered w
 
 - 🎓 BS Computer Sciences
 - 🤖 AI Automation & Workflow Development
-- 📍 Lahore, Pakistan
 ---
 
 ## 💻 Technical Skills
@@ -37,4 +36,4 @@ Passionate AI Automation Engineer with hands-on experience building AI-powered w
 - 📸 Instagram:https://www.instagram.com/shumaiza_jabeen/
 ---
 
-⭐ ⭐ Turning ambition into achievement through dedication and continuous improvement.
+⭐ Turning ambition into achievement through dedication and continuous improvement.
